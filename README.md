@@ -9,7 +9,7 @@ I'm currently enrolled at the University of North Alabama as a Computer Science 
 * ✉️  You can contact me at [ebane2004@gmail.com](mailto:ebane2004@gmail.com)
 * 🚀  I'm currently working on [Python Linear Algebra Calculator](http://github.com/butterbanes/py-linear-alegra-calc)
 * 🤝  I'm open to collaborating on Research Projects
-* ⚡  I also play guitar
+* ⚡  I also play guitar and my favorite color is purple
 
 ### Skills
 
@@ -27,14 +27,8 @@ I'm currently enrolled at the University of North Alabama as a Computer Science 
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/butterbanes"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=butterbanes&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
 <a href="https://github.com/butterbanes" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=butterbanes&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 ### Support Me
 
-<ul style="list-style-type: none; margin: 0;">
-
-<li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.buymeacoffee.com/butterbanes"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a></li>
-
-</ul>
+<a href="https://www.buymeacoffee.com/butterbanes"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a>
