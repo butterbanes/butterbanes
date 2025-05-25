@@ -7,7 +7,7 @@ UNA Undergraduate | Computer Science | Cybersecurity | Math
 I'm currently enrolled at the University of North Alabama as a Computer Science major with a double minor in Cybersecurity and Mathematics. I've been going to UNA since the Fall of 2022 and I am anticipated to graduate in My of 2026. Over my time here, I've developed skills in many programming languages.
 
 * ✉️  You can contact me at [ebane2004@gmail.com](mailto:ebane2004@gmail.com)
-* 🚀  I'm currently working on [Python Linear Algebra Calculator](http://github.com/butterbanes/py-linear-alegra-calc)
+* 🚀  I'm currently working on a [Python Linear Algebra Calculator](http://github.com/butterbanes/py-linear-alegra-calc) and my [GitHub Pages Website](https://butterbanes.github.io/)
 * 🤝  I'm open to collaborating on Research Projects
 * ⚡  I also play guitar and my favorite color is purple
 
